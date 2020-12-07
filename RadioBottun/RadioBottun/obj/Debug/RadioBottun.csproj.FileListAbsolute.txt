@@ -1,0 +1,10 @@
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\bin\Debug\RadioBottun.exe.config
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\bin\Debug\RadioBottun.exe
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\bin\Debug\RadioBottun.pdb
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\obj\Debug\RadioBottun.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\obj\Debug\RadioBottun.Form1.resources
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\obj\Debug\RadioBottun.Properties.Resources.resources
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\obj\Debug\RadioBottun.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\obj\Debug\RadioBottun.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\obj\Debug\RadioBottun.exe
+C:\Users\Ivan\source\repos\RadioBottun\RadioBottun\obj\Debug\RadioBottun.pdb
